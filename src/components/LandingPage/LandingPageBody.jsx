@@ -13,7 +13,6 @@ function LandingPageBody() {
                     </p>
                     <button className="cta-button">Get a Free Consultation</button>
                 </div>
-                {/* <img src="/Device.png" alt="Digital Devices" className="landingPage-image" /> */}
             </div>
         </div>
     );
