@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&family=Fascinate+Inline&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Knewave&family=Lilita+One&family=Manrope:wght@200..800&family=Roboto:ital,wght@0,472;1,472&family=Rubik+Spray+Paint&display=swap');
+
+.navigation-Buttons {
+    gap: 50px;
+    display: flex;
+}
+
+.navigation-Buttons a {
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+    font-family: "Manrope", sans-serif;
+}
+
+.LogoName {
+    font-family: "Lilita One", sans-serif;
+    font-size: 25px;
+    line-height: 0px;
+}
+
+.header-bar {
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+    align-items: center;
+    justify-content: space-around;
+}
