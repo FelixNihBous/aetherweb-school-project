@@ -32,4 +32,5 @@
     padding: 25px 90px 25px 90px;
     align-items: center;
     justify-content: space-between;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }

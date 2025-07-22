@@ -3,7 +3,7 @@ import '../../css/LandingPageHeader.css'
 
 function LandingPageHeader() {
   return (
-    <div className='header-container' style={{background:"white", width: '100vw'}}>
+    <div className='header-container' style={{background:"#ffdf5e"}}>
         <div className='header-bar'>
             <p className='LogoName'>AETHER </p>
             <div className='navigation-Buttons'>
